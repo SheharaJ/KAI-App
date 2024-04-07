@@ -18,7 +18,7 @@ struct LoginView: View {
                 Spacer()
 
                 // App logo or title
-                Text("SingheClothing")
+                Text("Kai")
                     .font(.largeTitle)
                     .fontWeight(.bold)
                     .padding(.bottom, 50)
